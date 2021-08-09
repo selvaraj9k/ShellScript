@@ -1,7 +1,7 @@
 #!/bin/bash
 
 while true; do
-	echo -n "$@" >> ~/selva.txt
+	echo -n "$@" >> ~/test.txt
 	sleep 1
 done
 
