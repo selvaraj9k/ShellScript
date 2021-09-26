@@ -2,3 +2,4 @@
 
 echo "hi selvaraj"
 
+cat /etc/shells
